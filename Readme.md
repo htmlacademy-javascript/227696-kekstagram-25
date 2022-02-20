@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
 * Студент: [Антон Минаев](https://up.htmlacademy.ru/javascript/25/user/227696).
-* Наставник: `Неизвестно`.
+* Наставник: [Дмитрий «Sench» Железцов](https://htmlacademy.ru/profile/sench).
 
 ---
 
